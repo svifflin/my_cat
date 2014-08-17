@@ -1,13 +1,3 @@
-/*
-** xfunctions.c for xfunctions in /home/darkseb/Documents/etna1/DEVC/my_cat/libs
-** 
-** Made by Sebastien Vifflin
-** Login   <viffli_s@etna-alternance.net>
-** 
-** Started on  Thu Feb  9 14:40:59 2012 Sebastien Vifflin
-** Last update Thu Feb  9 14:41:00 2012 Sebastien Vifflin
-*/
-
 #include	<stdio.h>
 #include	<unistd.h>
 #include	<stdlib.h>

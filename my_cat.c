@@ -1,13 +1,3 @@
-/*
-** my_cat.c for my_cat in /home/darkseb/Documents/etna1/DEVC/my_cat
-** 
-** Made by Sebastien Vifflin
-** Login   <viffli_s@etna-alternance.net>
-** 
-** Started on  Thu Feb  9 14:39:41 2012 Sebastien Vifflin
-** Last update Thu Feb  9 14:39:42 2012 Sebastien Vifflin
-*/
-
 #include	<unistd.h>
 #include	<string.h>
 #include	<strings.h>

@@ -1,13 +1,3 @@
-##
-## Makefile for Makefile in /home/darkseb/Documents/etna1/DEVC/my_cat
-## 
-## Made by Sebastien Vifflin
-## Login   <viffli_s@etna-alternance.net>
-## 
-## Started on  Thu Feb  9 14:39:25 2012 Sebastien Vifflin
-## Last update Thu Feb  9 14:39:27 2012 Sebastien Vifflin
-##
-
 NAME	= cat
 
 ##
